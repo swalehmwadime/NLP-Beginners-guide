@@ -1,5 +1,5 @@
 ## Natural language Processing(MNIST dataset)
-This [notebook](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/NLP_Notebook1.ipynb) is for training a simple neural network using the [tensorflow](https://www.tensorflow.org/) library to distinguish handwritten digits from the MNIST dataset.<br> Description of each component and the necessary details :</p><br>
+This [notebook](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Models/NLP_Notebook1.ipynb) is for training a simple neural network using the [tensorflow](https://www.tensorflow.org/) library to distinguish handwritten digits from the MNIST dataset.<br> Description of each component and the necessary details :</p><br>
 <ol>
 <li>TensorFlow: For building and training the neural network.</li>
 <li>Math: For mathematics .</li>
