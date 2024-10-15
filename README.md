@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository serves as a central location for my work and studies in NLP, including data preprocessing, model training, evaluation, and deployment.
+This repository serves as a central location for my work and studies in NLP.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -19,12 +19,12 @@ This repository serves as a central location for my work and studies in NLP, inc
 8. [Contact](#contact)
 
 ## Introduction
-Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. This repository includes a variety of NLP projects that demonstrate different techniques and methodologies used in the field.
+Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. You will get a variety of projects that demonstrate different techniques and methodologies used in the field.
 
 ## Projects
 ### Sentiment Analysis
 This project involves analyzing the sentiment of text data, typically classifying text as positive, negative, or neutral. It includes data preprocessing, feature extraction, and the implementation of machine learning models.
-- Check out this repository for [sentiment analysis](https://github.com/swalehmwadime/British-Airways-Ds) to learn more
+- Check out this [sentiment analysis](https://github.com/swalehmwadime/British-Airways-Ds) to learn more
 
 ### Text Classification
 Text classification involves categorizing text into predefined categories. This project demonstrates various text classification techniques using different models and datasets.
