@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains various projects, scripts, and resources related to Natural Language Processing (NLP). It serves as a central location for my work and studies in NLP, including data preprocessing, model training, evaluation, and deployment.
+This repository serves as a central location for my work and studies in NLP, including data preprocessing, model training, evaluation, and deployment.
 
 ## Table of Contents
 1. [Introduction](#introduction)
