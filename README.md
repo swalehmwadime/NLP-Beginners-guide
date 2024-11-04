@@ -23,16 +23,16 @@ Natural Language Processing is a field of artificial intelligence that focuses o
 
 ## Projects
 ### Sentiment Analysis
-This project involves analyzing the sentiment of text data, typically classifying text as positive, negative, or neutral. It includes data preprocessing, feature extraction, and the implementation of machine learning models.
+We are typically classifying text as positive, negative, or neutral.
 - Check out this [sentiment analysis](https://github.com/swalehmwadime/British-Airways-Ds) to learn more
 
 ### Text Classification
-Text classification involves categorizing text into predefined categories. This project demonstrates various text classification techniques using different models and datasets.
+Text classification involves categorizing text into predefined categories. 
 - Run notebook on [Google colab](https://colab.research.google.com/drive/1Pz_FwYLuwkwJho-swH0o8M60nYhYMFx1) 
 
 
 ### Named Entity Recognition
-Named Entity Recognition (NER) is the process of identifying and classifying entities (such as names, dates, and locations) in text. This project includes NER model training and evaluation.
+Named Entity Recognition (NER) is the process of identifying and classifying entities (such as names, dates, and locations) in text. 
 
 ### Machine Translation
 Machine Translation is the task of automatically translating text from one language to another. This project explores different translation models and techniques.
@@ -67,7 +67,7 @@ python train.py
 ```
 
 ## Data
-The data used in each project is typically not included in the repository due to size constraints. Instructions for obtaining the data are provided in each project's README file. Ensure to place the data in the appropriate directories as specified.
+The data used in each project is not included in the repository due to size constraints. Instructions for obtaining the data are provided in each project's README file. Ensure to place the data in the appropriate directories as specified.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or new projects to add, please follow these steps:
