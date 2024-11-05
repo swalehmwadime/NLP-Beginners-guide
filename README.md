@@ -2,7 +2,8 @@
 
 
 ## Overview
-This repository serves as a central location for my work and studies in NLP.
+This repository serves as a central location for my work and studies in NLP.<br>
+Check out [Tensorflow](https://www.tensorflow.org/) to start learning.
 
 ## Table of Contents
 1. [Introduction](#introduction)
