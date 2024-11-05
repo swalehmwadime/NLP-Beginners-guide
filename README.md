@@ -2,8 +2,7 @@
 
 
 ## Overview
-This repository serves as a central location for my work and studies in NLP.<br>
-Check out [Tensorflow](https://www.tensorflow.org/) to start learning.
+- This repository serves as a central location for my work and studies in NLP.<br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -20,7 +19,11 @@ Check out [Tensorflow](https://www.tensorflow.org/) to start learning.
 8. [Contact](#contact)
 
 ## Introduction
-Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. 
+Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. <br>
+- Check out [Tensorflow](https://www.tensorflow.org/) to start learning.<br>
+- [Video tutorial](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+
+
 ## Projects
 ### Sentiment Analysis
 We are typically classifying text as positive, negative, or neutral.
