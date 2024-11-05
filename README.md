@@ -19,8 +19,7 @@ This repository serves as a central location for my work and studies in NLP.
 8. [Contact](#contact)
 
 ## Introduction
-Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. You will get a variety of projects that demonstrate different techniques and methodologies used in the field.
-
+Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. 
 ## Projects
 ### Sentiment Analysis
 We are typically classifying text as positive, negative, or neutral.
