@@ -17,7 +17,7 @@
 
 ## Introduction
 Natural Language Processing is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. <br>
-- Check [Tensorflow](https://www.tensorflow.org/) to start learning.<br>
+- Start learning using [Tensorflow](https://www.tensorflow.org/) .<br>
 - [Video tutorial](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 
 
