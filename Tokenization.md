@@ -1,10 +1,14 @@
+
 ## Tokenization in NLP
 
+  
 - Tokenization is a fundamental step in Natural Lnaguage Processing where we breakdown text into smaller ,meaningful units called tokens.
 These tokens can be words, punctuation marks or even subwords.
  - The goal is to transform unstructedred text into structured format that maxchines can understand.
 
-
+<td>
+    <a target="_blank" href="https://colab.research.google.com/drive/1kOUN8vAM77xrWPmcQXgtrp1R6O2nCbNp#scrollTo=y-y5LbhpXUzg"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+  </td> <br>
 
 
 ## **Why is Tokenization Important?**
