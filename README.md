@@ -7,8 +7,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-    - [Sentiment Analysis](#sentiment-analysis)
-    - [Text Classification](#text-classification)
+    - [Sentiment Analysis](https://github.com/swalehmwadime/British-Airways-Ds)
+    - [Text Classification](https://colab.research.google.com/drive/1Pz_FwYLuwkwJho-swH0o8M60nYhYMFx1)
     - [Named Entity Recognition](#named-entity-recognition)
     - [Machine Translation](#machine-translation)
 3. [Configuration and Installation](#setup-and-installation)
