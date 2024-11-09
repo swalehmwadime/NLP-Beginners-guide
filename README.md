@@ -31,15 +31,9 @@ Text classification involves categorizing text into predefined categories.
 - Run notebook on [Google colab](https://colab.research.google.com/drive/1Pz_FwYLuwkwJho-swH0o8M60nYhYMFx1) 
 
 
-### Named Entity Recognition
-Named Entity Recognition (NER) is the process of identifying and classifying entities (such as names, dates, and locations) in text. 
-
-
-### Machine Translation
-Machine Translation is the task of automatically translating text from one language to another. This project explores different translation models and techniques.
 
 ### Tokenization
-[Notebook for Tokenization](https://colab.research.google.com/drive/1kOUN8vAM77xrWPmcQXgtrp1R6O2nCbNp#scrollTo=QC-0mreYq2zp)
+[Notebook for Tokenization](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Tokenization.md)
 ### Configuration and Installation
 1. **Clone the repository**:
     ```bash
