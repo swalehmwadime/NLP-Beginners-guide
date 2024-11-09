@@ -42,13 +42,6 @@ Text classification involves categorizing text into predefined categories.
     ```
 
 
-
-
-
 ## Contact
 If you have any questions or suggestions, feel free to make a [pull request](https://github.com/swalehmwadime/NLP-Beginners-guide/pulls) or submit an [issue](https://github.com/swalehmwadime/NLP-Beginners-guide/issues).
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/swalehmwadime/NLP-Beginners-guide?tab=MIT-1-ov-file) file for more information.
----
 
