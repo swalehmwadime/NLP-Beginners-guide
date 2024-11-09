@@ -22,17 +22,6 @@ It enables machines to understand, interpret, generate, and respond to human lan
 - [Video tutorial](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 
 
-## Projects
-### Sentiment Analysis
-We are typically classifying text as positive, negative, or neutral.
-- Check out this [sentiment analysis](https://github.com/swalehmwadime/British-Airways-Ds) to learn more
-
-### Text Classification
-Text classification involves categorizing text into predefined categories. 
-- Run notebook on [Google colab](https://colab.research.google.com/drive/1Pz_FwYLuwkwJho-swH0o8M60nYhYMFx1) 
-
-
-
 ### Tokenization
 [Notebook for Tokenization](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Tokenization.md)
 ### Configuration and Installation
@@ -41,7 +30,6 @@ Text classification involves categorizing text into predefined categories.
     git clone https://github.com/swalehmwadime/NLP-Beginners-guide.git
    
     ```
-
 
 ## Contact
 If you have any questions or suggestions, feel free to make a [pull request](https://github.com/swalehmwadime/NLP-Beginners-guide/pulls) or submit an [issue](https://github.com/swalehmwadime/NLP-Beginners-guide/issues).
