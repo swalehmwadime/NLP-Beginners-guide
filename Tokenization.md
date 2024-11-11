@@ -1,13 +1,9 @@
 
 ## Tokenization in NLP
-
-  
+<a href="https://colab.research.google.com/drive/1kOUN8vAM77xrWPmcQXgtrp1R6O2nCbNp#scrollTo=y-y5LbhpXUzg" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Tokenization is a fundamental step in Natural Language Processing where we breakdown text into smaller ,meaningful units called tokens.
 These tokens can be words, punctuation marks or even subwords.
  
-
-<a href="https://colab.research.google.com/drive/1kOUN8vAM77xrWPmcQXgtrp1R6O2nCbNp#scrollTo=y-y5LbhpXUzg" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 ## **Types of Tokenization:**
 
 1. **Word Tokenization:** 
