@@ -1,0 +1,5 @@
+# Solving Sudoku Puzzle 
+### Understanding the Problem
+- Solving Sudoku involves filling a 9x9 grid with digits from 1 to 9, ensuring that each row, column, and 3x3 subgrid contains all digits without repetition.</br>
+  ![puzzle](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Sudoku%20puzzle.png)
+- Link to the [puzzle](https://sudoku.com/easy/)
