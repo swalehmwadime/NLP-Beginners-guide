@@ -19,6 +19,7 @@
 - Start learning NLP using [Tensorflow](https://www.tensorflow.org/) .<br>
 - [Video tutorial](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S) to learn more
 - [Notebook for Tokenization](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Tokenization.md)
+- Solve Sudoku [puzzle](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/Sudoku_puzzle.md)
 
 ## Contact
 If you have any questions or suggestions, feel free to make a [pull request](https://github.com/swalehmwadime/NLP-Beginners-guide/pulls) or submit an [issue](https://github.com/swalehmwadime/NLP-Beginners-guide/issues).
